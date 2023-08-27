@@ -8,7 +8,7 @@
 <br>📚 Continuous Learning: Committed to staying updated in data science.
 <br>🌍 Community Contribution: Sharing insights and tutorials.
 <br>🌟 Let's Collaborate: Whether it's a data science project, a coding challenge, or a constructive discussion, I'm open to collaboration and networking opportunities. Feel free to connect and reach out!
-Thank you for visiting my GitHub profile. Let's connect, learn, and grow together in the world of data science! 📊🐍🤖📈🚀🌍🌟
+<br>Thank you for visiting my GitHub profile. Let's connect, learn, and grow together in the world of data science! 📊🐍🤖📈🚀🌍🌟
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Doni.A.Satish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donis12) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iDoNi_SaTiSh) 
