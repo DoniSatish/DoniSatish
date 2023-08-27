@@ -1,6 +1,5 @@
 ## 💫 About Me:
 👋 Welcome to my GitHub Profile!
-
 <br>I am a dedicated Data Science professional with a passion for leveraging data-driven insights to make informed decisions. My expertise spans a range of key areas, including:
 <br>📊 SQL: Extracting, transforming, and analyzing data.
 <br>🐍 Python: Crafting elegant code for data analysis and machine learning.
