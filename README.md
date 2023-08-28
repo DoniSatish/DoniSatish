@@ -16,4 +16,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=donisatish&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![](https://visitcount.itsvg.in/api?id=donisatish&icon=5&color=6)
