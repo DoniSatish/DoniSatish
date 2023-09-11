@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donisatish&label=Profile%20views&color=0e75b6&style=flat" alt="donisatish" /> </p>
+
 # 💫 About Me:
 👋 Welcome to my GitHub Profile!<br>I am a dedicated Data Science professional with a passion for leveraging data-driven insights to make informed decisions. My expertise spans a range of key areas, including:<br>📊 SQL: Extracting, transforming, and analyzing data.<br>🐍 Python: Crafting elegant code for data analysis and machine learning.<br>📈 Power BI: Creating insightful, interactive dashboards.<br>🚀 Career Objective: Seeking a challenging role to drive growth through data.<br>📚 Continuous Learning: Committed to staying updated in data science.<br>🌍 Community Contribution: Sharing insights and tutorials.<br>🌟 Let's Collaborate: Whether it's a data science project, a coding challenge, or a constructive discussion, I'm open to collaboration and networking opportunities. Feel free to connect and reach out!<br><br>Thank you for visiting my GitHub profile. Let's connect, learn, and grow together in the world of data science! 📊🐍🤖📈🚀🌍🌟
 
